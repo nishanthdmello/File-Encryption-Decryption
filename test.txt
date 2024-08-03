@@ -1,0 +1,3 @@
+This is my C++ project titled file encryption using operator overloading.
+It uses base64 method to encrypt files.
+The operators which have been overloaded are '++', '--' and '<<'. '++' and '--' is used for encryption and decryption. '<<' is used to print file content.
